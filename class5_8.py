@@ -1,0 +1,6 @@
+f=open("besant_data.txt",'a')
+f.write("besant\n")
+f.write("technologies\n")
+f.write("Hsr\n")
+print("data written to the file succesfully")
+f.close()

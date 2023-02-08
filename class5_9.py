@@ -1,0 +1,6 @@
+f=open("besant_data.txt",'w')
+f.write("Bangalore\n")
+f.write("pune\n")
+f.write("mumbai\n")
+print("data written to the file succesfully")
+f.close()
